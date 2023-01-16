@@ -34,7 +34,7 @@ let x: [string, number];
 // Initialize it
 x = ["hello", 10]; // OK
 // Initialize it incorrectly
-x = [10, "hello"]; // Error
+//x = [10, "hello"]; // Error
 console.log(x);
 console.log(x[0].substring(1));
 //console.log(x[1].substring(1))//Error
