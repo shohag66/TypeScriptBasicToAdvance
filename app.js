@@ -1,0 +1,14 @@
+var message = 'Hello World';
+var decimal = 6;
+var hex = 0xf00d;
+var binary = 10;
+var color = "blue";
+var x;
+x = ["hello", 10];
+console.log(message);
+console.log(decimal);
+console.log(hex);
+console.log(binary);
+console.log(color);
+console.log(x);
+console.log(x[0].substring(1));
